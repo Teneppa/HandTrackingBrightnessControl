@@ -16,3 +16,10 @@ A hand tracking demo made with mediapipe where you can control lights with pinch
 * Webcam
 * Arduino
 * Neopixel LED-strip (unless you modify the code)
+
+#### Pinout:
+| Arduino pin   | Where you connect it |
+| ------------- | ------------- |
+| D2  | LED Strip Din |
+| 5V | +5V |
+| GND | GND |
